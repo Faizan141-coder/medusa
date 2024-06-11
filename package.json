@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "axios": "^1.7.2",
+    "lucide-react": "^0.394.0",
+    "use-shopping-cart": "^3.2.0"
+  }
+}
